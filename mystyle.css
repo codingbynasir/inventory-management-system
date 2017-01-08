@@ -1,0 +1,11 @@
+input#fileupload {
+    padding: 10px 16px;
+}
+
+.row.upload-area {
+    padding-left: 50px;
+}
+
+table.table.table-hover {
+    border-top: 2px solid grey;
+}
